@@ -1,7 +1,7 @@
 # Intern QA Record
 
 * [JAVA](#JAVA)
-  * [标题2](#标题2)
+  * [1. HashSet, HashTable, HashMap](#1. HashSet, HashTable, HashMap)
   * [标题3](#标题3)
         * [标题3.1](#标题3.1)
         * [标题3.2](#标题3.2)
