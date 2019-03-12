@@ -2,11 +2,8 @@
 
 * [JAVA](#JAVA)
   * [1. HashSet, HashTable, HashMap](#1. HashSet, HashTable, HashMap)
-  * [标题3](#标题3)
-        * [标题3.1](#标题3.1)
-        * [标题3.2](#标题3.2)
-  * [标题4](#标题4)
-  
+ 
+* [C++](#C++)
   
 ### JAVA
 
