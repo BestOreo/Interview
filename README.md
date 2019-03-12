@@ -1,9 +1,4 @@
 # Intern QA Record
-
-* [JAVA](#JAVA)
-  * [1. HashSet, HashTable, HashMap](#1. HashSet, HashTable, HashMap)
- 
-* [C++](#C++)
   
 ### JAVA
 
